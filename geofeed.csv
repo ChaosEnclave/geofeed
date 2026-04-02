@@ -1,22 +1,66 @@
 # Alpine Connective Geofeed
+# This geofeed is provided by Alpine Connective, an internet service provider. The geofeed contains information about the geographic location of IP addresses, including the country, state, city, and postal code. The data is updated regularly to ensure accuracy and reliability.
+# Begin Feed
+# ne-omaha.downtownIX
 198.58.28.0/27,US,US-NE,Omaha,68102
+# ne-fremont.omni
 198.58.31.0/27,US,US-NE,Fremont,68025
+# ne-hooper.popken
 198.58.31.240/29,US,US-NE,Hooper,68031
+# ne-nickerson.schafer
 198.58.31.232/29,US,US-NE,Nickerson,68044
+# ne-craig.soderling
 198.58.31.224/29,US,US-NE,Craig,68019
+# ne-uehling
 198.58.31.216/29,US,US-NE,Uehling,68063
+# ne-snyder
 198.58.31.208/29,US,US-NE,Snyder,68664
+# ne-scribner
 198.58.31.200/29,US,US-NE,Scribner,68662
+# ne-ames.kloke
 198.58.31.192/29,US,US-NE,Ames,68621
+# ne-fremont.omni-cx
 198.58.31.128/26,US,US-NE,Fremont,68025
+# ne-fremont.woodcliff
 198.58.31.112/28,US,US-NE,Fremont,68025
+# ne-fremont.ritt
 198.58.31.96/28,US,US-NE,Fremont,68025
+# ne-fremont.adm
+198.58.31.64/27,US,US-NE,Fremont,68025
+# ne-fremont.protech
+198.58.31.32/27,US,US-NE,Fremont,68025
+# ne-nickerson
 198.58.30.240/28,US,US-NE,Nickerson,68044
+# ne-elkhorn
 198.58.29.240/28,US,US-NE,Elkhorn,68022
-198.58.29.208/28,US,US-NE,Fremont,68025
+# ne-fremont.omni-cx2
+198.58.29.208/28,US,US-NE,Omaha,68102
+# ne-omaha.business1
 198.58.29.160/27,US,US-NE,Omaha,68102
+# ne-nickerson.old
 198.58.29.64/28,US,US-NE,Nickerson,68044
+# ne-fremont.omni-cx3
 198.58.28.192/26,US,US-NE,Omaha,68102
+# ne-omaha.oakbrook
 198.58.28.176/28,US,US-NE,Omaha,68137
+# ne-omaha.downtown2
 198.58.28.56/29,US,US-NE,Omaha,68102
+# ne-omaha.downtown
 198.58.28.48/29,US,US-NE,Omaha,68102
+# Gap fills - 198.58.28.0/23 (Omaha)
+198.58.28.32/28,US,US-NE,Omaha,68102
+198.58.28.64/26,US,US-NE,Omaha,68102
+198.58.28.128/27,US,US-NE,Omaha,68102
+198.58.28.160/28,US,US-NE,Omaha,68102
+198.58.29.0/26,US,US-NE,Omaha,68102
+198.58.29.80/28,US,US-NE,Omaha,68102
+198.58.29.96/27,US,US-NE,Omaha,68102
+198.58.29.128/27,US,US-NE,Omaha,68102
+198.58.29.192/28,US,US-NE,Omaha,68102
+198.58.29.224/28,US,US-NE,Omaha,68102
+# Gap fills - 198.58.30.0/23 (Fremont)
+198.58.30.0/25,US,US-NE,Fremont,68025
+198.58.30.128/26,US,US-NE,Fremont,68025
+198.58.30.192/27,US,US-NE,Fremont,68025
+198.58.30.224/28,US,US-NE,Fremont,68025
+198.58.31.248/29,US,US-NE,Fremont,68025

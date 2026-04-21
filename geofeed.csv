@@ -31,6 +31,10 @@
 198.58.31.32/27,US,US-NE,Fremont,68025
 # ne-nickerson
 198.58.30.240/28,US,US-NE,Nickerson,68044
+# ne-thurston
+198.58.30.232/29,US,US-NE,Thurston,68062
+# ne-plainview
+198.58.30.224/29,US,US-NE,Plainview,68769
 # ne-elkhorn
 198.58.29.240/28,US,US-NE,Elkhorn,68022
 # ne-fremont.omni-cx2
@@ -62,5 +66,4 @@
 198.58.30.0/25,US,US-NE,Fremont,68025
 198.58.30.128/26,US,US-NE,Fremont,68025
 198.58.30.192/27,US,US-NE,Fremont,68025
-198.58.30.224/28,US,US-NE,Fremont,68025
 198.58.31.248/29,US,US-NE,Fremont,68025
